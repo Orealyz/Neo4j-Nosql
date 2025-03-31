@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Clonez le repository avec la commande suivante :
 
 ```bash
-git clone [<URL_DU_REPOSITORY>](https://github.com/Orealyz/Neo4j-Nosql.git)
+git clone https://github.com/Orealyz/Neo4j-Nosql.git
 cd Neo4j-Nosql
 ```
 Environnement virtuel:
